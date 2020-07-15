@@ -33,6 +33,4 @@ function draw() {
 		velocityY  *= -1;
 	} 
 
-	
-
 }
